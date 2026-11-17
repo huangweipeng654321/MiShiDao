@@ -1,9 +1,9 @@
 # Lost Island
 
-## Background
+## 📖 Background
 A narrative point-and-click adventure with hand-drawn art and environmental storytelling.
 
-## Functionality
+## 🎮 Functionality
 Logic puzzles, inventory management and NPC interactions reveal hidden secrets in the environment.
 
 ## 🛠️ Tech Stack
