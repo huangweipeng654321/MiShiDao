@@ -8,7 +8,7 @@ Logic puzzles, inventory management and NPC interactions reveal hidden secrets i
 
 ## 🛠️ Tech Stack
 Engine: Unity
-Language: Unity visual scripting + C#
+Language: Unity Visual Scripting + C#
 
 ## 🚀 How to Run
 1. Clone the repository.
